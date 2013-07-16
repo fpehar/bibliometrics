@@ -1,4 +1,4 @@
-bibliometrics
+Bibliometrics
 =============
 
 Bibliometric research &amp; coding
